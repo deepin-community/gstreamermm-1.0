@@ -1,3 +1,9 @@
+gstreamermm-1.0 (1.10.0+dfsg-4deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:48:52 +0800
+
 gstreamermm-1.0 (1.10.0+dfsg-4) unstable; urgency=medium
 
   * Fix build against glib 2.68, thanks Simon McVittie (closes: #997238)
